@@ -1,2 +1,2 @@
 # Hangman
-Simple hangman web app built with javascript
+Hangman web app built with javascript
